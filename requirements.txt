@@ -1,0 +1,62 @@
+attrs==19.3.0
+backcall==0.1.0
+beautifulsoup4==4.9.1
+branca==0.4.1
+certifi==2020.4.5.1
+chardet==3.0.4
+click==7.1.2
+click-plugins==1.1.1
+cligj==0.5.0
+colorama==0.4.3
+cycler==0.10.0
+decorator==4.4.2
+docopt==0.6.2
+Fiona @ file:///C:/Users/u02vpe/pipwin/Fiona-1.8.13-cp37-cp37m-win_amd64.whl
+folium==0.11.0
+GDAL @ file:///C:/Users/u02vpe/pipwin/GDAL-3.0.4-cp37-cp37m-win_amd64.whl
+geopandas @ file:///C:/Users/u02vpe/pipwin/geopandas-0.7.0-py3-none-any.whl
+idna==2.9
+ipykernel==5.3.0
+ipython==7.15.0
+ipython-genutils==0.2.0
+jedi==0.17.0
+Jinja2==2.11.2
+joblib==0.15.1
+Js2Py==0.70
+jupyter-client==6.1.3
+jupyter-core==4.6.3
+kiwisolver==1.2.0
+MarkupSafe==1.1.1
+matplotlib==3.2.1
+munch==2.5.0
+numpy @ file:///C:/Users/u02vpe/pipwin/numpy-1.18.5%2Bmkl-cp37-cp37m-win_amd64.whl
+packaging==20.4
+pandas==1.0.4
+parso==0.7.0
+pickleshare==0.7.5
+pipwin==0.5.0
+prompt-toolkit==3.0.5
+Pygments==2.6.1
+pyjsparser==2.7.1
+pyparsing==2.4.7
+PyPrind==2.11.2
+pyproj @ file:///C:/Users/u02vpe/pipwin/pyproj-2.6.1.post1-cp37-cp37m-win_amd64.whl
+pySmartDL==1.3.3
+python-dateutil==2.8.1
+pytz==2020.1
+pywin32==227
+pyzmq==19.0.1
+requests==2.23.0
+Rtree @ file:///C:/Users/u02vpe/pipwin/Rtree-0.9.4-cp37-cp37m-win_amd64.whl
+scikit-learn==0.23.1
+scipy==1.4.1
+seaborn==0.10.1
+Shapely @ file:///C:/Users/u02vpe/pipwin/Shapely-1.7.0-cp37-cp37m-win_amd64.whl
+six==1.15.0
+soupsieve==2.0.1
+threadpoolctl==2.1.0
+tornado==6.0.4
+traitlets==4.3.3
+tzlocal==2.1
+urllib3==1.25.9
+wcwidth==0.2.3
